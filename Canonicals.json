@@ -1,0 +1,4 @@
+[{"question":"http://stackoverflow.com/questions/3099219","tags":["r","ggplot2"],"desc":"I need to plot a bar chart showing counts and a line chart showing rate all in one chart, I can do both of them separately, but when I put them together, I scale of the first layer (i.e. the geom_bar) is overlapped by the second layer (i.e. the geom_line.","title":"Plot with 2 y axes, one y axis on the left, and another y axis on the right"},
+{"question":"http://stackoverflow.com/questions/21982987","tags":["r","aggregate"],"desc":"I have a data.frame and I need to calculate the mean per group (i.e. per Month, below)."},
+{"question":"http://stackoverflow.com/questions/9617348","tags":["r","matrix","dataframe","plyr","reshape"],"desc":"I have a data.frame that looks like this. I want this in matrix form so I can feed it to heatmap to make a plot. The result should look something like:","title":"Reshape three column data frame to matrix"}
+]
