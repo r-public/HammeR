@@ -17,3 +17,5 @@
 [Why are these numbers not equal?](http://stackoverflow.com/questions/9508518/why-are-these-numbers-not-equal) floating point error
 
 [How to sum a variable by group?](http://stackoverflow.com/questions/1660124/how-to-sum-a-variable-by-group) I want to sort the data by Category and sum the Frequencies:
+
+[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega) I've never quite understood the differences between them, so I often just go through them all until I get what I want. Can someone explain how to use which one when?
