@@ -20,6 +20,6 @@
 
 [R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega) I've never quite understood the differences between them, so I often just go through them all until I get what I want. Can someone explain how to use which one when?
 
-[Is there an aggregate FUN option to count occurrences?](http://stackoverflow.com/questions/9809166/is-there-an-aggregate-fun-option-to-count-occurrences)
+[Is there an aggregate FUN option to count occurrences?](http://stackoverflow.com/questions/9809166/is-there-an-aggregate-fun-option-to-count-occurrences) 
 
-[Count number of observations/rows per group and add result to data frame](http://stackoverflow.com/questions/7450600/count-number-of-observations-rows-per-group-and-add-result-to-data-frame)
+[Count number of observations/rows per group and add result to data frame](http://stackoverflow.com/questions/7450600/count-number-of-observations-rows-per-group-and-add-result-to-data-frame) 
