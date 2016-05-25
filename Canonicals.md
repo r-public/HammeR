@@ -23,3 +23,5 @@
 [Is there an aggregate FUN option to count occurrences?](http://stackoverflow.com/questions/9809166/is-there-an-aggregate-fun-option-to-count-occurrences) 
 
 [Count number of observations/rows per group and add result to data frame](http://stackoverflow.com/questions/7450600/count-number-of-observations-rows-per-group-and-add-result-to-data-frame) 
+
+[split comma-separated column into separate rows](http://stackoverflow.com/questions/13773770/split-comma-separated-column-into-separate-rows)
