@@ -17,7 +17,7 @@ def get_dict(qurl,desc):
 def get_Json():
     filename = "Canonicals.md"
     list_of_data = (open(filename).read().split("\n\n"))
-    list_of_split = [re.match(r'\[(.*?)\]\((.*?)\) (.*)',i).groups() for i in list_of_data]
+    list_of_split = [re.match(r'\[(.*?)\]\((.*?)\) ?(.*)',i).groups() for i in list_of_data]
     
     list_of_canons  = [get_dict(i,j) for _,i,j in list_of_split]
     with open("Canonicals.json", 'wb') as outfile:

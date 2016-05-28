@@ -25,3 +25,7 @@
 [Count number of observations/rows per group and add result to data frame](http://stackoverflow.com/questions/7450600/count-number-of-observations-rows-per-group-and-add-result-to-data-frame) 
 
 [split comma-separated column into separate rows](http://stackoverflow.com/questions/13773770/split-comma-separated-column-into-separate-rows)
+
+[What is the difference between %>% and %,% in magrittr?](http://stackoverflow.com/questions/25211465/what-is-the-difference-between-and-in-magrittr) Github developmental version of magrittr includes some cool new function for piping but I do not exactly catch de difference between %>% and %,%. Is this only formal with %>% for value and %,% for functions, or there is some specific peculiarity?
+
+[What does %>% mean in R](http://stackoverflow.com/questions/24536154/what-does-mean-in-r)
