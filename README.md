@@ -15,4 +15,4 @@ The description is optional and is used to make the search easier.
 
 --------------------
 
-For feedback about this repository please visit the [R Public chatroom](http://chat.stackoverflow.com/rooms/25312/r-public) 
+For feedback about this repository please visit the [R Public chatroom](http://chat.stackoverflow.com/rooms/25312/r-public).
