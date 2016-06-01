@@ -29,3 +29,5 @@
 [What is the difference between %>% and %,% in magrittr?](http://stackoverflow.com/questions/25211465/what-is-the-difference-between-and-in-magrittr) Github developmental version of magrittr includes some cool new function for piping but I do not exactly catch de difference between %>% and %,%. Is this only formal with %>% for value and %,% for functions, or there is some specific peculiarity?
 
 [What does %>% mean in R](http://stackoverflow.com/questions/24536154/what-does-mean-in-r)
+
+[Split column at delimiter in data frame](http://stackoverflow.com/questions/7069076/split-column-at-delimiter-in-data-frame) Split column in multiple columns.
