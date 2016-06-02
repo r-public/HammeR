@@ -33,3 +33,5 @@
 [What does %>% mean in R](http://stackoverflow.com/questions/24536154/what-does-mean-in-r)
 
 [Split column at delimiter in data frame](http://stackoverflow.com/questions/7069076/split-column-at-delimiter-in-data-frame) Split column in multiple columns.
+
+[Collapse / concatenate / aggregate a column to a single comma separated string within each group](http://stackoverflow.com/questions/15933958/collapse-concatenate-aggregate-a-column-to-a-single-comma-separated-string-w)
