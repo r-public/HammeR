@@ -11,7 +11,8 @@ def get_dict(qurl,desc):
     return {"question": data['items'][0]['link'],
             "tags": data['items'][0]['tags'],
             "title": data['items'][0]['title'],
-            "desc": desc}
+            "desc": desc,
+            "score":data['items'][0]['score']}
 
 
 def get_Json():
