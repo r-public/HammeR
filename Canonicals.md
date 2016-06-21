@@ -37,3 +37,5 @@
 [Collapse / concatenate / aggregate a column to a single comma separated string within each group](http://stackoverflow.com/questions/15933958/collapse-concatenate-aggregate-a-column-to-a-single-comma-separated-string-w)
 
 [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function)
+
+[Assignment operators in R: '=' and '<-'](http://stackoverflow.com/questions/1741820/assignment-operators-in-r-and) What are differences in the assignment operators = and <- in R 
