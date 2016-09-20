@@ -39,3 +39,5 @@
 [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function)
 
 [Assignment operators in R: '=' and '<-'](http://stackoverflow.com/questions/1741820/assignment-operators-in-r-and) What are differences in the assignment operators = and <- in R 
+
+[Numbering rows within groups in a data frame](http://stackoverflow.com/questions/12925063/numbering-rows-within-groups-in-a-data-frame) How to add a counter variable by group.
