@@ -32,6 +32,8 @@
 
 [What does %>% mean in R](http://stackoverflow.com/questions/24536154/what-does-mean-in-r)
 
+[Split a column of a data frame to multiple columns](http://stackoverflow.com/questions/4350440/split-a-column-of-a-data-frame-to-multiple-columns) 
+
 [Split column at delimiter in data frame](http://stackoverflow.com/questions/7069076/split-column-at-delimiter-in-data-frame) Split column in multiple columns.
 
 [Aggregating by unique identifier and concatenating related values into a string](http://stackoverflow.com/questions/16596515/aggregating-by-unique-identifier-and-concatenating-related-values-into-a-string) or as an alternative [Collapse / concatenate / aggregate a column to a single comma separated string within each group](http://stackoverflow.com/questions/15933958/collapse-concatenate-aggregate-a-column-to-a-single-comma-separated-string-w)
