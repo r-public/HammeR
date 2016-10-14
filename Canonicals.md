@@ -36,7 +36,9 @@
 
 [Split column at delimiter in data frame](http://stackoverflow.com/questions/7069076/split-column-at-delimiter-in-data-frame) Split column in multiple columns.
 
-[Aggregating by unique identifier and concatenating related values into a string](http://stackoverflow.com/questions/16596515/aggregating-by-unique-identifier-and-concatenating-related-values-into-a-string) or as an alternative [Collapse / concatenate / aggregate a column to a single comma separated string within each group](http://stackoverflow.com/questions/15933958/collapse-concatenate-aggregate-a-column-to-a-single-comma-separated-string-w)
+[Aggregating by unique identifier and concatenating related values into a string](http://stackoverflow.com/questions/16596515/aggregating-by-unique-identifier-and-concatenating-related-values-into-a-string)
+
+[Collapse / concatenate / aggregate a column to a single comma separated string within each group](http://stackoverflow.com/questions/15933958/collapse-concatenate-aggregate-a-column-to-a-single-comma-separated-string-w)
 
 [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function)
 
