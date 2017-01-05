@@ -45,3 +45,11 @@
 [Assignment operators in R: '=' and '<-'](http://stackoverflow.com/questions/1741820/assignment-operators-in-r-and) What are differences in the assignment operators = and <- in R 
 
 [Numbering rows within groups in a data frame](http://stackoverflow.com/questions/12925063/numbering-rows-within-groups-in-a-data-frame) How to add a counter variable by group.
+
+[as.Date with dates in format m/d/y in R](http://stackoverflow.com/questions/15072955/as-date-with-dates-in-format-m-d-y-in-r) Converting numeric dates.
+
+[as.Date returning NA while converting from 'ddmmmyyyy'](http://stackoverflow.com/questions/15566875/as-date-returning-na-while-converting-from-ddmmmyyyy) Converting dates with month abbreviations.
+
+[Converting year and month (“yyyy-mm” format) to a date in R?](http://stackoverflow.com/questions/6242955/converting-year-and-month-yyyy-mm-format-to-a-date-in-r) Reading dates only consisting of year-month pairs.
+
+
