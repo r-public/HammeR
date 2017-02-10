@@ -52,4 +52,7 @@
 
 [Converting year and month (“yyyy-mm” format) to a date in R?](http://stackoverflow.com/questions/6242955/converting-year-and-month-yyyy-mm-format-to-a-date-in-r) Reading dates only consisting of year-month pairs.
 
+[Using aggregate to apply several functions on several variables in one call](http://stackoverflow.com/questions/12064202/using-aggregate-to-apply-several-functions-on-several-variables-in-one-call)
+
+[multiple functions in a single tapply or aggregate statement](http://stackoverflow.com/questions/15215076/multiple-functions-in-a-single-tapply-or-aggregate-statement)
 
