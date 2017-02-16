@@ -56,3 +56,4 @@
 
 [multiple functions in a single tapply or aggregate statement](http://stackoverflow.com/questions/15215076/multiple-functions-in-a-single-tapply-or-aggregate-statement)
 
+[Subset data frame based on number of rows per group](http://stackoverflow.com/questions/20204257/subset-data-frame-based-on-number-of-rows-per-group)
