@@ -1,4 +1,3 @@
-import urllib2
 import json
 import requests
 import re
@@ -21,7 +20,7 @@ def get_Json():
     list_of_split = [re.match(r'\[(.*?)\]\((.*?)\) ?(.*)',i).groups() for i in list_of_data]
     
     list_of_canons  = [get_dict(i,j) for _,i,j in list_of_split]
-    with open("Canonicals.json", 'wb') as outfile:
+    with open("Canonicals.json", 'w') as outfile:
         json.dump(list_of_canons, outfile)
 
 get_Json()

@@ -50,7 +50,7 @@
 
 [as.Date returning NA while converting from 'ddmmmyyyy'](http://stackoverflow.com/questions/15566875/as-date-returning-na-while-converting-from-ddmmmyyyy) Converting dates with month abbreviations.
 
-[Converting year and month (“yyyy-mm” format) to a date in R?](http://stackoverflow.com/questions/6242955/converting-year-and-month-yyyy-mm-format-to-a-date-in-r) Reading dates only consisting of year-month pairs.
+[Converting year and month ("yyyy-mm" format) to a date in R?](http://stackoverflow.com/questions/6242955/converting-year-and-month-yyyy-mm-format-to-a-date-in-r) Reading dates only consisting of year-month pairs.
 
 [Using aggregate to apply several functions on several variables in one call](http://stackoverflow.com/questions/12064202/using-aggregate-to-apply-several-functions-on-several-variables-in-one-call)
 
