@@ -59,3 +59,6 @@
 [Subset data frame based on number of rows per group](http://stackoverflow.com/questions/20204257/subset-data-frame-based-on-number-of-rows-per-group)
 
 [Understanding the order() function](http://stackoverflow.com/q/2315601/4137985) I wanted ranks and I find `order` does not work as expected.
+
+[Aggregate / summarize multiple variables per group (i.e. sum, mean, etc)](http://stackoverflow.com/questions/9723208/aggregate-summarize-multiple-variables-per-group-i-e-sum-mean-etc)
+
