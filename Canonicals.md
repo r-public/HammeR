@@ -62,3 +62,4 @@
 
 [Aggregate / summarize multiple variables per group (i.e. sum, mean, etc)](http://stackoverflow.com/questions/9723208/aggregate-summarize-multiple-variables-per-group-i-e-sum-mean-etc)
 
+[Select rows from a data frame based on values in a vector](http://stackoverflow.com/questions/11612235/select-rows-from-a-data-frame-based-on-values-in-a-vector): subsetting by comparing to values in a vector.
