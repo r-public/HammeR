@@ -65,3 +65,5 @@
 [Select rows from a data frame based on values in a vector](http://stackoverflow.com/questions/11612235/select-rows-from-a-data-frame-based-on-values-in-a-vector): subsetting by comparing to values in a vector.
 
 [Merge with replacement based on multiple non-unique columns](http://stackoverflow.com/q/43197211/1191259) update join based on multicolumn key, not specific to a particular package
+
+[Combine Multiple Columns Into Tidy Data](http://stackoverflow.com/q/28729506/2204410)
