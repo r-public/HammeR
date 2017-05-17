@@ -66,4 +66,5 @@
 
 [Merge with replacement based on multiple non-unique columns](http://stackoverflow.com/q/43197211/1191259) update join based on multicolumn key, not specific to a particular package
 
-[Combine Multiple Columns Into Tidy Data](http://stackoverflow.com/q/28729506/2204410)
+[Reshaping multiple sets of measurement columns (wide format) into single columns (long format)](http://stackoverflow.com/q/12466493/2204410)
+
