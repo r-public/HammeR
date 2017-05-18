@@ -68,3 +68,5 @@
 
 [Reshaping multiple sets of measurement columns (wide format) into single columns (long format)](http://stackoverflow.com/q/12466493/2204410)
 
+[Finding ALL duplicate rows, including “elements with smaller subscripts”](http://stackoverflow.com/questions/7854433/finding-all-duplicate-rows-including-elements-with-smaller-subscripts)
+
