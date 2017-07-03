@@ -24,6 +24,8 @@
 
 [Count number of observations/rows per group and add result to data frame](http://stackoverflow.com/questions/7450600/count-number-of-observations-rows-per-group-and-add-result-to-data-frame) 
 
+[Counting unique / distinct values by group in a data frame](https://stackoverflow.com/questions/12840294/counting-unique-distinct-values-by-group-in-a-data-frame)
+
 [How to add count of unique values by group to R data.frame](http://stackoverflow.com/questions/17421776/how-to-add-count-of-unique-values-by-group-to-r-data-frame)
 
 [split comma-separated column into separate rows](http://stackoverflow.com/questions/13773770/split-comma-separated-column-into-separate-rows)
