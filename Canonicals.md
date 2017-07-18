@@ -72,3 +72,6 @@
 
 [Finding ALL duplicate rows, including “elements with smaller subscripts”](http://stackoverflow.com/questions/7854433/finding-all-duplicate-rows-including-elements-with-smaller-subscripts)
 
+[Count number of rows within each group](https://stackoverflow.com/q/9809166/2204410)
+
+
