@@ -77,3 +77,5 @@
 [Conditional merge/replacement in R](https://stackoverflow.com/questions/6112260/conditional-merge-replacement-in-r) a simple update join
 
 [Generate a dummy-variable](https://stackoverflow.com/questions/11952706/generate-a-dummy-variable)
+
+[How to process and combine data.frames in a list with faster way](https://stackoverflow.com/questions/46711824/how-to-process-and-combine-data-frames-in-a-list-with-faster-way) read in and stack similar files with rbindlist or bind_rows
