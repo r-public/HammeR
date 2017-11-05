@@ -1,4 +1,7 @@
+[![Hammer Logo](https://i.stack.imgur.com/juKn4s.png)](https://i.stack.imgur.com/juKn4.png)
+
 # HammeR
+
 *The R Canonical collection*
 
 This repository contains a collection of canonical dupe targets for the [r](http://stackoverflow.com/questions/tagged/r) tag on [Stack Overflow](http://stackoverflow.com). A web interface for the same can be found [here](http://r-public.github.io/hammer/). 
